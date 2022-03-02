@@ -44,7 +44,7 @@
 	<h2>호로로로롤</h2>
 
 	<p>뭘 추가해볼까요?</p>
-	<p>위에 만든거 수정하는게 더 나으려나</p>
+	<p>위에 만든거 수정하는게 어려울까요? 아니면 그냥 위치를 뒤죽박죽 하는게 더 불편한가..?</p>
 	<div>
 			<p>바다를 가르는 자!</p>
 		</div>
@@ -56,6 +56,9 @@
 	<button type="button">버튼</button>
 	<button type="button">버튼2</button>
 	<button type="button">버튼3</button>
+	<div>
+		<p></p>
+	</div>
 
 </body>
 </html>
